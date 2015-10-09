@@ -1,0 +1,31 @@
+{
+  "name": "redux-test",
+  "description": "Create a redux-like store for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node __tests__/index-test.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dariocravero/redux-test.git"
+  },
+  "keywords": [
+    "fake",
+    "react",
+    "components"
+  ],
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dariocravero/redux-test/issues"
+  },
+  "homepage": "https://github.com/dariocravero/redux-test#readme",
+  "devDependencies": {
+    "tape": "^4.2.1",
+    "semantic-release": "^4.3.5"
+  },
+  "dependencies": {
+    "sinon": "^1.17.1"
+  }
+}
