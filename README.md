@@ -1,6 +1,6 @@
 # redux-test
 
-[![Build Status](https://travis-ci.org/dariocravero/redux-test.svg)](https://travis-ci.org/dariocravero/react-fake-components)
+[![Build Status](https://travis-ci.org/dariocravero/redux-test.svg)](https://travis-ci.org/dariocravero/redux-test)
 
 Create a redux-like store for testing
 
